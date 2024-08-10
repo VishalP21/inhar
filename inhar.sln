@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inhar", "inhar\inhar.csproj", "{BA557F6A-03B9-4DE1-8A1D-B493BEBF7903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA557F6A-03B9-4DE1-8A1D-B493BEBF7903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA557F6A-03B9-4DE1-8A1D-B493BEBF7903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA557F6A-03B9-4DE1-8A1D-B493BEBF7903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA557F6A-03B9-4DE1-8A1D-B493BEBF7903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62E06A8D-BD00-470A-96C4-6EF1880AD530}
+	EndGlobalSection
+EndGlobal
